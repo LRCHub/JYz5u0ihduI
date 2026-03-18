@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Niton (The Reason) (Radio Edit)",
+  "base_artist": "Eric Prydz",
+  "createdAt": "2026-03-18T08:29:11.695903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Niton (The Reason) (Radio Edit)",
+      "artist": "Eric Prydz",
+      "has_synced": false,
+      "path": "select/01_Niton_(The_Reason)_(Radio_Edit)_Eric_Prydz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Niton (The Reason) - Radio Edit",
+      "artist": "Eric Prydz",
+      "has_synced": false,
+      "path": "select/02_Niton_(The_Reason)_-_Radio_Edit_Eric_Prydz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Niton (The Reason) (radio edit)",
+      "artist": "Prydz, Eric",
+      "has_synced": false,
+      "path": "select/03_Niton_(The_Reason)_(radio_edit)_Prydz,_Eric.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Niton (The Reason) (Radio Edit)",
+      "artist": "Eric Prydz",
+      "has_synced": false,
+      "path": "select/04_Niton_(The_Reason)_(Radio_Edit)_Eric_Prydz.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Niton (The Reason) [Radio Edit]",
+      "artist": "Eric Prydz",
+      "has_synced": false,
+      "path": "select/05_Niton_(The_Reason)_[Radio_Edit]_Eric_Prydz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Niton (The Reason) - Radio Edit",
+      "artist": "Eric Prydz",
+      "has_synced": false,
+      "path": "select/06_Niton_(The_Reason)_-_Radio_Edit_Eric_Prydz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Niton [The Reason] - Radio Edit",
+      "artist": "Eric Prydz",
+      "has_synced": false,
+      "path": "select/07_Niton_[The_Reason]_-_Radio_Edit_Eric_Prydz.txt"
+    }
+  ]
+}
